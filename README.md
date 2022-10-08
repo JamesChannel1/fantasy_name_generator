@@ -1,2 +1,3 @@
-# fantasy_name_generator
-website made of HTML, CSS and JS.
+Webpages with buttons which generate fantasy names. 
+
+The game icons/images are from flaticon.com @ https://www.flaticon.com/
